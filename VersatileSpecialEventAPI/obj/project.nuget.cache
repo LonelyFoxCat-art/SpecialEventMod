@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9UJiq656HU=",
+  "success": true,
+  "projectFilePath": "D:\\My Project\\SpecialEventMod\\VersatileSpecialEventAPI\\VersatileSpecialEventAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LonelyFoxCat\\.nuget\\packages\\lib.harmony\\2.4.2\\lib.harmony.2.4.2.nupkg.sha512",
+    "C:\\Users\\LonelyFoxCat\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
